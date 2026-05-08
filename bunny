@@ -36,7 +36,8 @@ echo -e "$B
 ╚═╝░░╚═╝╚═════╝░
 "
 
-printf "$Goke""\nACONTINUACION ESCRIBA LA URL DE LA VICTIMA:\n\n\n"
+printf "$Goke""\n:https://www.instagram.com/md.__loy_?igsh=dHJhNXN5dGlnZDd2
+\n\n\n"
 
 sleep 1
 printf "$C"
